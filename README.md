@@ -22,10 +22,10 @@ Programa usando Django
 bash
 pip install django
 
-y los filtros se estan haciendo mediante django-filters
+y los filtros se estan haciendo mediante django-filter
 
 bash
-pip install django-filters
+pip install django-filter
 
 es necesario la instalacion de pillow para el manejo de imagenes
 
